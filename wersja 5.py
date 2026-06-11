@@ -10,3 +10,4 @@ if x%2==0 or x%5==1:
 else:
     print("liczba nie spenia ani jednego warunkow")
     print("---------------------------------")
+#modulo nie dziala przy liczbach rzeczywistch trzeba uzyc liczby naturalne
